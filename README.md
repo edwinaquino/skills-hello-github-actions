@@ -1,6 +1,6 @@
 <header>
-
-# Hello GitHub Actions
+# Step 5 Added Thumbs Up Emoji 👍
+## Hello GitHub Actions
 
 _Create and run a GitHub Actions workflow._
 
